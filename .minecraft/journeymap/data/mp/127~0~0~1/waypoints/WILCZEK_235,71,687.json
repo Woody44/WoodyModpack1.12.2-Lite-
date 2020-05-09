@@ -1,0 +1,18 @@
+{
+  "id": "WILCZEK_235,71,687",
+  "name": "WILCZEK",
+  "icon": "waypoint-normal.png",
+  "x": 235,
+  "y": 71,
+  "z": 687,
+  "r": 14,
+  "g": 239,
+  "b": 251,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
